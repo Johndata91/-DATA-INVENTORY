@@ -1,1 +1,14 @@
 # -DATA-INVENTORY
+In the food industry requires inventory control, lot & serial number traceability, and order management to ensure food quality and safety.
+Inventory management in the food industry is a must. Whether you are a foodservice supplier, a manufacturer or a distributor – your business depends on efficient, flexible inventory management capabilities in order to be successful and safe.
+The ability to track serial and lot numbers for raw ingredients and finished goods end-to-end of the supply chain does more than just boost safeguards for potential recalls. With this Dashboard, you can manage and monitor quality control, expiry dates, quarantine information, and any other important additional information, all while meeting regulatory requirements with ease while traceability becomes even faster and efficient.
+ INVENTORY EXCEL DASHBOARD
+This Dashboard can be the perfect solution when dealing with perishable goods. It is a combination of sales and purchasing, meaning raw and finished goods are only purchased when in demand, which prevents a buildup of stale inventory. Ensuring food quality and safety, reducing waste, and fulfilling orders fast and efficiently are powerful ways to safeguard your food (or beverage) manufacturing or distribution business for years to come.
+This project contains contain lot of worksheets once of which is the 
+• Dashboard – The dashboard gives details of the total quantity of stock we have for each region. Here we can observe the Northern region has the highest stock quantity and the south east has the lowest stock quantity. It also has a stock index timeline which has a line graph.
+The stock index line graph shows the store with highest with number of expired or almost expired products here we can we see Abeokuta has the highest of almost expired products and below is a table which give us the map orientation (location in the warehouse) for easy location of the product. In the table is an indicator which gives us the status of the Products.
+• Register Page – The registration page is entails the total number of products produced, the store location, map orientation, manufacturing date, shelf live, SKU code, the status of the Products which could either be IN-STOCK or OUT-STOCK, manufacturing time and the quantity left.
+• SKU QUANTITY – The SKU quantity give detail of the total quantity of products left and how they are supplied or sold.
+• BACKEND – The backend contains the all the store in each location (Abeokuta, Jos, Kaduna, Owerri, Abuja, Aba, and the total products contained. The backend is only accessible to the team who developed the model.
+• STOREKEEPERS – This entails details of all the storekeeper for each location. 
+• NB – SHAJON is an imaginary warehouse and all data used for this project were formulated.
